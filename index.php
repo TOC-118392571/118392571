@@ -38,7 +38,7 @@
 <p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
 
     
-    <a href="cv.html" class="button">My CV</a> <p> <br>
+    <a href="CV.html" class="button">My CV</a> <p> <br>
     </br> 
 
 
