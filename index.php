@@ -61,19 +61,7 @@
 <a href="consultingservices.html" class="button">Consulting Services</a> <P> <br> 
     </br> 
     
-   
-<p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
-
-    
-    <a href="https://github.com/TOC-118392571" class="button">Github</a> <p> <br>
-    </br> 
-    
-    <p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
-
-    
-    <a href="https://dashboard.heroku.com/apps/toc-phpproject10" class="button">Heroku</a> <p> <br>
-    </br> 
-
+  
 
 </p> 
 
