@@ -1,17 +1,83 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
+    
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+        <title>Welcome to my webpage </title>
     </head>
-    <body>
-        <?php
-             echo 'Hello World';
-        ?>
-    </body>
+
+	<body>
+
+
+         <style>
+             body {
+ color:white;
+}
+             body {
+ background-image: url("backgroundimage.jpg");
+ background-color: #cccccc;
+}
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+         
+<center> 
+    <U> <h2>Welcome to my webpage </h2> </U> 
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+
+    
+    <a href="cv.html" class="button">My CV</a> <p> <br>
+    </br> 
+
+
+
+</p> 
+
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+
+<a href="interests.html" class="button">Interests</a> <p> <br> 
+    </br> 
+
+
+
+
+</p>
+<p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+    
+
+<a href="consultingservices.html" class="button">Consulting Services</a> <P> <br> 
+    </br> 
+    
+   
+<p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+
+    
+    <a href="https://github.com/TOC-118392571" class="button">Github</a> <p> <br>
+    </br> 
+    
+    <p style = "font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+
+    
+    <a href="https://dashboard.heroku.com/apps/toc-phpproject10" class="button">Heroku</a> <p> <br>
+    </br> 
+
+
+</p> 
+
+</center> 
+	</body>
+
 </html>
