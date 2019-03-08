@@ -29,17 +29,17 @@ $_SESSION['txtTotal']= $totalValue2 ;
        
                     <tr>
                          <td> Name </td>
-                         <td><input type="text" id="txtName" name="txtName" value="" /> </td>
+                         <td><input type="text" id="txtName" name="txtName" value="" required/> </td>
                     </tr>
        
                      <tr>
-                         <td> Phone Number </td>
-                         <td><input type="text" id="txtNum" name="txtNum" value="" /> </td>
+                         <td> Email </td>
+                         <td><input type="text" id="txtNum" name="txtNum" value="" required pattern="\d{4}"/></td>
                     </tr>
        
                     <tr>
-                         <td> Password </td>
-                         <td><input type="text" id="txtPassword" name="txtPassword" value="" /> </td>
+                         <td> PIN </td>
+                         <td><input type="text" id="txtPassword" name="txtPassword" value="" required/> </td>
                     </tr>
        
                     <tr>
