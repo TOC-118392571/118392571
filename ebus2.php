@@ -34,12 +34,12 @@ $_SESSION['txtTotal']= $totalValue2 ;
        
                      <tr>
                          <td> Email </td>
-                         <td><input type="text" id="txtNum" name="txtNum" value="" required pattern="\d{4}"/></td>
+                         <td><input type="text" id="txtNum" name="txtNum" value="" required /></td>
                     </tr>
        
                     <tr>
                          <td> PIN </td>
-                         <td><input type="text" id="txtPassword" name="txtPassword" value="" required/> </td>
+                         <td><input type="text" id="txtPassword" name="txtPassword" value="" required pattern="\d{4}"/> </td>
                     </tr>
        
                     <tr>
